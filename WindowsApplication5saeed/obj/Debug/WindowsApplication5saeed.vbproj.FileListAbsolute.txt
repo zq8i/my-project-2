@@ -1,0 +1,11 @@
+c:\users\zl0vi\documents\visual studio 2015\Projects\WindowsApplication5saeed\WindowsApplication5saeed\bin\Debug\WindowsApplication5saeed.exe.config
+c:\users\zl0vi\documents\visual studio 2015\Projects\WindowsApplication5saeed\WindowsApplication5saeed\bin\Debug\WindowsApplication5saeed.exe
+c:\users\zl0vi\documents\visual studio 2015\Projects\WindowsApplication5saeed\WindowsApplication5saeed\bin\Debug\WindowsApplication5saeed.pdb
+c:\users\zl0vi\documents\visual studio 2015\Projects\WindowsApplication5saeed\WindowsApplication5saeed\bin\Debug\WindowsApplication5saeed.xml
+c:\users\zl0vi\documents\visual studio 2015\Projects\WindowsApplication5saeed\WindowsApplication5saeed\obj\Debug\WindowsApplication5saeed.vbprojResolveAssemblyReference.cache
+c:\users\zl0vi\documents\visual studio 2015\Projects\WindowsApplication5saeed\WindowsApplication5saeed\obj\Debug\WindowsApplication5saeed.Form1.resources
+c:\users\zl0vi\documents\visual studio 2015\Projects\WindowsApplication5saeed\WindowsApplication5saeed\obj\Debug\WindowsApplication5saeed.Resources.resources
+c:\users\zl0vi\documents\visual studio 2015\Projects\WindowsApplication5saeed\WindowsApplication5saeed\obj\Debug\WindowsApplication5saeed.vbproj.GenerateResource.Cache
+c:\users\zl0vi\documents\visual studio 2015\Projects\WindowsApplication5saeed\WindowsApplication5saeed\obj\Debug\WindowsApplication5saeed.exe
+c:\users\zl0vi\documents\visual studio 2015\Projects\WindowsApplication5saeed\WindowsApplication5saeed\obj\Debug\WindowsApplication5saeed.xml
+c:\users\zl0vi\documents\visual studio 2015\Projects\WindowsApplication5saeed\WindowsApplication5saeed\obj\Debug\WindowsApplication5saeed.pdb
